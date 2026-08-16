@@ -29,6 +29,8 @@
 
 <br/>
 
+<h3 align="center">programming languages</h3>
+
 <div align="center">
 
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
@@ -41,7 +43,7 @@
 
 <br/>
 
-<h3 align="center">Contacts</h3>
+<h3 align="center">contacts</h3>
 
 <div align="center">
 
